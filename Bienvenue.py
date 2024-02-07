@@ -4,8 +4,8 @@ import requests
 
 
 
-#FASTAPI_SERVER = 'https://dsoc-p7-api-019616fdcaac.herokuapp.com'
-FASTAPI_SERVER= 'http://127.0.0.1:8000'
+FASTAPI_SERVER = 'https://app-opc-01e0e62f2bf5.herokuapp.com'
+#FASTAPI_SERVER= 'http://127.0.0.1:8000'
 
 # Fonction pour récupérer l'image de l'API
 def get_image_from_api(image_name):
